@@ -8,6 +8,4 @@
 
 4 *Mettez cet ligne* set mysql_connection_string "server=localhost;database=nom de la database mysql;userid=root;password="
 
-**Creé par OXYDE#0001**
-
 **Voila votre serveur est connecté a mysql**
